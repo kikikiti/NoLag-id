@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/KHyUwmQL9s/0", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/8Mls9slA6ECQ5199/raw", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/Main.lua"))()
